@@ -1,1 +1,1 @@
-new_script=document.createElement("SCRIPT"),new_script.type="text/javascript",new_script.crossorigin="anonymous",new_script.src="https://click2Ship.qa.crossbordertrade.qa.walmart.com/javascript/click2Ship.js",document.getElementsByTagName("head")[0].appendChild(new_script);
+javascript:(function(){click2Ship_script=document.createElement('SCRIPT');click2Ship_script.type='text/javascript';click2Ship_script.src='https://crossbordertrade.github.io/click2ship/javascript/click2Ship.js';document.getElementsByTagName('head')[0].appendChild(click2Ship_script);})();
