@@ -1,0 +1,1 @@
+new_script=document.createElement("SCRIPT"),new_script.type="text/javascript",new_script.crossorigin="anonymous",new_script.src="https://click2Ship.qa.crossbordertrade.qa.walmart.com/javascript/click2Ship.js",document.getElementsByTagName("head")[0].appendChild(new_script);
